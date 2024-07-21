@@ -1,3 +1,7 @@
 working ---staging -local repository -----remot[cloud]
+git init -----1 
+git add file name / git add .  add file added 
+git commit -m "coment"   ---------s -local
+git push --- local to coloud
 
-git init
+
