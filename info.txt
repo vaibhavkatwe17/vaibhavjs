@@ -1,0 +1,3 @@
+working ---staging -local repository -----remot[cloud]
+
+git init
